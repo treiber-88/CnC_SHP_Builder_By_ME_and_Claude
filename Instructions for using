@@ -1,0 +1,11 @@
+To open an SHP: Go to "file" in the top left corner and click the option to open an SHP Then you can navigate through your folders/files and find the SHP you want to open
+Same for making an SHP, except click the option to make a new one.
+If you opened an SHP it will appear on the main interface. You don't have to go anywhere, it will just appear when you open it.
+The SHP may at first seem blurry or be colored strangely. This is because the wrong pallet is picked. Pretty sure that the default palette is Tiberian Dawn, so just click on that and you will be able to see your palette options: Tiberian Dawn, Red Alert 1, Tiberian Sun, Red Alert 2, and Yuri's Revenge. The SHP should look right when you choose do one or the other.
+So for instance, if you open an SHP from Combined Arms, it will probably appear to be colored strangely. To fix this just click on the palette chooser and click on Red Alert 1, and the image will clear up and look right.
+You can copy and paste using control-c (copy) and control-v (paste). Command-c and command-v on Mac. What you can do with the copy-and-paste function is this: press control-c, then go to the next frame (the frames are presented at the bottom of the screen, just click on them or press arrow keys to switch back and forth) and press control-v.
+To choose colors, just click on the color you want to use. 
+The colors go like this: top row of colors (usually only two) are "special" colors. Don't ask me what they're for. I think for shadows? The second row are colors that are effected by the in-game color picker, so only use those on the areas of your unit/building that you want to be effected by the color picker. The third row is mad up of usable colors. They are shown as they appear in-game. 
+Just click on colors to use them.
+There are a few blue boxes on the top left with letters like "P" "E" and "F" The "P" is the pencil function, the "E" is the erase function, and the "F" is the fill function. Just click the boxes to use each one.
+When you are done with editing the SHP, click "save" and save name it.
