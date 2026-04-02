@@ -3,3 +3,4 @@ This is the Github repository for my Claude-AI made CnC SHP builder. Please repo
 Feel free to download and install. 
 For Windows: Run the bat
 For Mac: run the sh in terminal
+You may need to press enter after clicking the bat or sh.
